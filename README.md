@@ -1,2 +1,5 @@
-# two-sugars-and-a-dream
-Two Sugars and a Dream - Parked
+# Two Sugars and a Dream
+
+A parking page for the domain.
+
+Bosed on the jekyll theme: https://github.com/thedevslot/WhatATheme
